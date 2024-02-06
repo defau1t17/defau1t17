@@ -19,7 +19,7 @@
      <img height="45px" width="170px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/michael-stepushin-40a06b208/"> 
+  <a href="https://t.me/thebiggestmike"> 
      <img height="45px" width="170px" src="https://img.shields.io/badge/Telegram-darkblue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
     
